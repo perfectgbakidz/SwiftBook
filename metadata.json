@@ -1,0 +1,6 @@
+{
+  "name": "Calenova - Smart Appointment Booking & Management",
+  "description": "Multi-role appointment booking and management platform with express 4-step booking, real-time calendars, provider scheduling, no-show reduction, and complete administrative operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
